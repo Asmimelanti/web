@@ -1,0 +1,221 @@
+.mac-book1543-container {
+  min-height: 100vh;
+}
+.mac-book1543-mac-book1543 {
+  width: 1198px;
+  height: 700px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mac-book1543-image {
+  top: 209px;
+  left: 798px;
+  width: 193px;
+  height: 121px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mac-book1543-image1 {
+  top: 275px;
+  left: 144px;
+  width: 666px;
+  height: 375px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mac-book1543-text {
+  top: 28px;
+  left: 733px;
+  color: rgba(0, 0, 0, 1);
+  width: 91px;
+  height: 38px;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-frame25518 {
+  top: 30px;
+  left: 821px;
+  width: 91px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mac-book1543-text01 {
+  color: rgba(10, 10, 10, 1);
+  right: -14px;
+  width: 91px;
+  bottom: 0px;
+  height: 38px;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text02 {
+  top: 32px;
+  color: rgba(10, 10, 10, 1);
+  right: 143px;
+  width: 116px;
+  height: 26px;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text03 {
+  top: 30px;
+  color: rgba(0, 0, 0, 1);
+  right: 4px;
+  width: 116px;
+  height: 38px;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text04 {
+  top: 559px;
+  left: 842px;
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text05 {
+  top: 340px;
+  left: 792px;
+  color: rgba(255, 248, 248, 1);
+  width: 296px;
+  height: 150px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text06 {
+  top: 378px;
+  left: 701px;
+  color: rgba(0, 0, 0, 1);
+  width: 193px;
+  height: 28px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text07 {
+  top: 373px;
+  left: 941px;
+  color: rgba(10, 10, 10, 1);
+  width: 233px;
+  height: 28px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-image2 {
+  top: 369px;
+  left: 867px;
+  width: 58px;
+  height: 46px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mac-book1543-image3 {
+  top: 377px;
+  left: 868px;
+  width: 55px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mac-book1543-text08 {
+  top: 587px;
+  left: 827px;
+  color: rgba(255, 255, 255, 1);
+  width: 226px;
+  height: 53px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mac-book1543-text09 {
+  top: 455px;
+  left: 701px;
+  color: rgba(13, 13, 13, 1);
+  width: 540px;
+  height: 49px;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
